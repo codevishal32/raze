@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6462514c2260b2872345190d"
+  },
+  "email": "asta@gmail.com",
+  "password": "$2b$10$DwI00JzkI4JYcNB3U0ZovepW/dCFVjfOkBd6o.4To.v8BaA2xsGi2",
+  "role": "ADMIN",
+  "permission": "Monitor, Alerts, Exceptions,Users, Analysis,Report",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646251e98180b3105b995f40"
+  },
+  "email": "codevishal32@gmail.com",
+  "password": "$2b$10$T1foLIP8Ie7IWdSZKXEESutz6BC/tD2g0hbk94DYkh.sgOvHRMBL6",
+  "role": "MEMBER",
+  "permission": "Report",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646251fe8180b3105b995f43"
+  },
+  "email": "user1@gmail.com",
+  "password": "$2b$10$JR6v8zyKgaH4ImD8c3riwuOKGL38mPWbSXFDMjaKe.FoRrdT6hAqu",
+  "role": "MEMBER",
+  "permission": "Report",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646252188180b3105b995f46"
+  },
+  "email": "user2@gmail.com",
+  "password": "$2b$10$36DQLubDJJDCF0SkPD.XNOcajVibngjg/obJbGMllR6WQulL7y0tS",
+  "role": "MEMBER",
+  "permission": "Report",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6462534ba7e073df10dea6ca"
+  },
+  "email": "try@gmail.com",
+  "password": "$2b$10$9ZoRT3crZc2LsRroYUViqOmLvdXVBwSUEqE5YKkDoRSVuakUmC.aK",
+  "role": "MANAGER",
+  "permission": "Users, Analysis, Report",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64625520a7e073df10dea6ec"
+  },
+  "email": "super_admin@gmail.com",
+  "password": "$2b$10$DS7djqc3Yw7rqfb98quZj.AuW1.mVIcu1v/UwVncOzBepXZVXf9ba",
+  "role": "ADMIN",
+  "permission": "Accounts, Settle,Monitor, Alerts, Exceptions,Users, Analysis ,Report",
+  "__v": 0
+}]
